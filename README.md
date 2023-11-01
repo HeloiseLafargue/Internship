@@ -1,5 +1,5 @@
 # Internship
-Internship I have done during my Masters degree
+Internships I have done during my Masters degree at ENSEEIHT
 
 - Research Assistant at Charité Berlin 🫀🏥 🇩🇪
   
