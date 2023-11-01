@@ -1,6 +1,6 @@
 ### Data Scientist in Meteorology at WeatherForce
 
-June 2023 - August 2023
+June 2023 - August 2023, Toulouse
 
 💧Meteorology for Peruvian agriculture💧
 
@@ -13,3 +13,5 @@ June 2023 - August 2023
 - 👩🏻‍💻 In this context, I was able to evaluate the products of Copernicus ECMWF C3S (European Centre for Medium-Range Weather Forecasts, Copernicus Climate Change Service) seasonal precipitation forecasts and GloFAS (Global Flood Awareness System) river flow forecasts over the geographical area of interest in order to provide the client with anomaly maps for the next 6 months, with recommendations that would support their decisions.
 
 - 🗣️ Finally, I had the opportunity to present a data-visualisation with a mock-up to the Peruvian pilot customers in Spanish.
+
+- 👥 I would like to thank Martin Espitalié, who guided me throughout this course, for his expertise in meteorology and climatology, Christine David and Pascal Venzac, for their trust, and the whole team, especially Grassi Kelly, Iñigo Reizabal Arregui and Arthur Albaz.
