@@ -1,6 +1,6 @@
-# Data Scientist in Meteorology at WeatherForce
+### Data Scientist in Meteorology at WeatherForce
 
-## June 2023 - August 2023
+June 2023 - August 2023
 
 💧Meteorology for Peruvian agriculture💧
 
