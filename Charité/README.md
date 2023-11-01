@@ -1,5 +1,5 @@
 ### Research Assistant at Charité Berlin 🫀🏥 🇩🇪 
-June 2022 - August 2022
+June 2022 - August 2022, Berlin
 
 - In summer 2022 I had the opportunity to join a research group for an 8-week internship in Berlin at the Institute of Computer-assisted Cardiovascular Medicine, Charité – University Medicine Berlin.
 Kown as one of the best medical research institutions and hospital in the world, Charité Berlin was the perfect place to discover a new field of computer science application and a new country.
