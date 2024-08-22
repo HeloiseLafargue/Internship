@@ -1,4 +1,4 @@
-# Apprenticeship in Artificial Intelligence applied to Altimetry
+### Apprenticeship in Artificial Intelligence applied to Altimetry 🛰️🌊🇫🇷
 
 Sept. 2023 - Sept. 2024, CLS, Environment & Climate BU, Toulouse, France
 
